@@ -1,16 +1,16 @@
-```js
-import DesenvolvedorBackEnd from "lucas-csoares";
+```java
+import lucas.csoares.DesenvolvedorBackEnd;
 
-class SobreMim extends DesenvolvedorBackEnd {
-  nome = "Lucas Cabral Soares";
-  area = "Engenharia de Software";
-  local = "Belo Horizonte, MG";
+public class SobreMim extends DesenvolvedorBackEnd {
+    String nome = "Lucas Cabral Soares";
+    String area = "Engenharia de Software";
+    String local = "Belo Horizonte, MG";
 }
 
-class Skills extends DesenvolvedorBackEnd {
-  linguagens = ["Java, JavaScript, HTML, CSS, SQL"];
-  bibliotecas = ["Lombok, JUnit"];
-  frameworks = ["Spring Boot, Spring Security"];
+public class Skills extends DesenvolvedorBackEnd {
+    String[] linguagens = {"Java, JavaScript, HTML, CSS, SQL"};
+    String[] bibliotecas = {"Lombok, JUnit"};
+    String[] frameworks = {"Spring Boot, Spring Security"};
 }
 ```
 
