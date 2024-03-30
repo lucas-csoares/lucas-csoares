@@ -29,11 +29,11 @@
 <p align="left"> 
 &emsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-     <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-228B22?style=for-the-badge&logo=SpringBoot&logoColor=white">
+     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-228B22?style=for-the-badge&logo=spring-boot&logoColor=white">
    </a>
   &emsp; 
   <a href="https://spring.io/projects/spring-security" target="_blank"> 
-   <img alt="Spring Security" src="https://img.shields.io/badge/SpringSecurity-228B22?style=for-the-badge&logo=springsecurity&logoColor=white">
+   <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-228B22?style=for-the-badge&logo=spring-security&logoColor=white">
   </a>
     &emsp; 
   <a href="https://junit.org/junit5/" target="_blank"> 
