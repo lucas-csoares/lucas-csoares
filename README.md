@@ -44,7 +44,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0074a3?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresqle&logoColor=white"/></a>
   &emsp;
