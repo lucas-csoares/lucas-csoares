@@ -11,9 +11,9 @@
 
 <br>
 
-## 🛠️ My Skills
+## 🛠️ Minhas habilidades
 
-### 👉 Programming languages
+### 👉 Linguagens de Programação
 
 &emsp;
 <a href="https://www.javascript.com/">
@@ -41,7 +41,7 @@
   </a> 
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Banco de Dados & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0074a3?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -51,7 +51,7 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
 
- ### 👉 Software & Tools
+ ### 👉 Software & Ferramentas
  
 <p>
   &emsp;
