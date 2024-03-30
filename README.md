@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Olá,+eu+sou+lucas)](https://git.io/typing-svg)
 
-<h3> Aqui estão alguns fatos divertidos sobre mim: </h3>
+<h3> Aqui estão alguns fatos legais sobre mim: </h3>
 
 - 🔭 Atualmente, sou monitor de Estrutura de Dados II na PUC Minas
 - 🎓 Estudo Engenharia de Software na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/)
