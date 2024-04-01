@@ -39,6 +39,10 @@
   <a href="https://junit.org/junit5/" target="_blank"> 
    <img alt="JUnit" src="https://img.shields.io/badge/JUnit-FF0000?style=for-the-badge&logo=junit&logoColor=white">
   </a> 
+  &emsp; 
+  <a href="https://hibernate.org/" target="_blank"> 
+   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-7D8A90?style=for-the-badge&logo=hibernate&logoColor=white">
+  </a> 
 </p>
 
 ### 👉 Banco de Dados & Cloud Hosting
