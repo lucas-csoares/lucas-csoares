@@ -54,7 +54,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://aws.amazon.com/pt/rds/?nc2=type_a"><img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon-100000?style=for-the-badge&logo=amazon&logoColor=white"></a>
+    <a href="https://aws.amazon.com/pt/rds/?nc2=type_a"><img alt="Amazon_RDS" src="https://img.shields.io/badge/Amazon-100000?style=for-the-badge&logo=amazon-rds&logoColor=white"></a>
  </p>
 
  ### 👉 Software & Ferramentas
