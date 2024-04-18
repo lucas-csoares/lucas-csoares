@@ -54,7 +54,9 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://aws.amazon.com/pt/rds/?nc2=type_a"><img alt="Amazon_RDS" src="https://img.shields.io/badge/Amazon-100000?style=for-the-badge&logo=amazon-rds&logoColor=white"></a>
+    <a href="https://aws.amazon.com/pt/rds/?nc2=type_a"><img alt="Amazon_RDS" src="https://img.shields.io/badge/Amazon_RDS-1f104f?style=for-the-badge&logo=amazon-rds&logoColor=white"></a>
+  &emsp;
+    <a href="https://aws.amazon.com/pt/elasticbeanstalk/?nc2=type_a"><img alt="Elastic_Beanstalk" src="https://img.shields.io/badge/Elastic_Beanstalk-1f104f?style=for-the-badge&logo=aws-elastic-Beanstalk&logoColor=white"></a>
  </p>
 
  ### 👉 Software & Ferramentas
