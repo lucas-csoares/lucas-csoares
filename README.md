@@ -67,6 +67,8 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-1f104f?style=for-the-badge&logo=eclipse&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-2CA5E0?style=for-the-badge&logo=chatgpt&logoColor=white"></a>
