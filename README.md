@@ -77,6 +77,7 @@
   &emsp;
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL_WorkBench-0074a3?style=for-the-badge&logo=mysql-workbench&logoColor=white"></a>
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
