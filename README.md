@@ -7,7 +7,7 @@
 - 🧩 Eu sou 5 kyu em Java no [codewars](https://www.codewars.com/users/lcsoares)
 - 🏆 Fui destaque acadêmico no primeiro período do curso de Engenharia de Software
 - 💻 Possuo mais experiência com Back-End
-- ♥️ Amo ler livros de ficção científica e gótico
+- ♥️ Amo ler livros de ficção científica
 
 <br>
 
