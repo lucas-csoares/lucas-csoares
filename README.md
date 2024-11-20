@@ -6,7 +6,7 @@
 - 🎓 Estudo Engenharia de Software na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/)
 - 🧩 Eu sou 5 kyu em Java no [codewars](https://www.codewars.com/users/lcsoares)
 - 🏆 Fui destaque acadêmico no primeiro período do curso de Engenharia de Software
-- 🏆 Trabalhei como desenvolvedor back-end em um dos melhores trabalhos Interdisciplinares do 2° Semestre de 2024 [We Make Software](https://www.even3.com.br/lourdes-2-semestre/)
+- 🏆 Fui desenvolvedor back-end em um projeto premiado em 2024 [We Make Software](https://www.even3.com.br/lourdes-2-semestre/)
 - 💻 Possuo mais experiência com Back-End
 - ♥️ Amo ler livros de ficção científica
 
