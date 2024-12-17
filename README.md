@@ -81,8 +81,6 @@
     <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL_WorkBench-0074a3?style=for-the-badge&logo=mysql-workbench&logoColor=white"></a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=lucas-csoares&theme=gruvbox" />
 
 <br/>
 
