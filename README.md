@@ -42,10 +42,6 @@
   <a href="https://junit.org/junit5/" target="_blank"> 
    <img alt="JUnit" src="https://img.shields.io/badge/JUnit-FF0000?style=for-the-badge&logo=junit&logoColor=white">
   </a> 
-  &emsp; 
-  <a href="https://hibernate.org/" target="_blank"> 
-   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-7D8A90?style=for-the-badge&logo=hibernate&logoColor=white">
-  </a> 
 </p>
 
 ### 👉 Banco de Dados & Cloud Hosting
@@ -56,10 +52,6 @@
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresqle&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://aws.amazon.com/pt/rds/?nc2=type_a"><img alt="Amazon_RDS" src="https://img.shields.io/badge/Amazon_RDS-1f104f?style=for-the-badge&logo=amazon-rds&logoColor=white"></a>
-  &emsp;
-    <a href="https://aws.amazon.com/pt/elasticbeanstalk/?nc2=type_a"><img alt="Elastic_Beanstalk" src="https://img.shields.io/badge/Elastic_Beanstalk-1f104f?style=for-the-badge&logo=aws-elastic-Beanstalk&logoColor=white"></a>
  </p>
 
  ### 👉 Software & Ferramentas
@@ -77,8 +69,6 @@
     <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-2CA5E0?style=for-the-badge&logo=chatgpt&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL_WorkBench-0074a3?style=for-the-badge&logo=mysql-workbench&logoColor=white"></a>
 </p>
