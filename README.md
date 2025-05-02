@@ -18,12 +18,15 @@
 &emsp;
 <a href="https://www.javascript.com/">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=darkgreen"/>
-  </a>
-  &emsp;
+</a>
+&emsp;
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-</p>
+</a>
+&emsp;
+<a href="https://www.python.com/en/">
+    <img alt="python" src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 
 ### 👉 Frameworks
 <p align="left"> 
