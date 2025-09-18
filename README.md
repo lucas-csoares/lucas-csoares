@@ -5,7 +5,7 @@
 - 🎓 Estudo Engenharia de Software na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/)
 - 🏆 Fui destaque acadêmico no primeiro período do curso de Engenharia de Software
 - 🏆 Fui desenvolvedor back-end em um projeto premiado em 2024 no [We Make Software](https://www.even3.com.br/lourdes-2-semestre/)
-- 🏆 Participei de uma pesquisa premiada em 2025 no [We Make Software](https://www.even3.com.br/wms-lourdes-2025-1-536800/)
+- 🏆 Participei de uma pesquisa premiada em 2025 no [We Make Software](https://www.even3.com.br/we-make-software-lourdes-2-semestre-2025-621985/)
 - ♥️ Amo ler livros📖
 
 <br>
