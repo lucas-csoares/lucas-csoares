@@ -16,15 +16,27 @@
 
 &emsp;
 <a href="https://www.javascript.com/">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=darkgreen"/>
+  <img 
+    alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 &emsp;
 <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"/>
+  <img 
+    alt="Java"
+    src="https://img.shields.io/badge/Java-C74634?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 &emsp;
-<a href="https://www.python.com/en/">
-    <img alt="python" src="https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://www.python.org/">
+  <img 
+    alt="Python"
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+</a>
+&emsp;
+<a href="https://www.typescriptlang.org/">
+  <img 
+    alt="TypeScript"
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
 
 ### 👉 Frameworks
@@ -36,6 +48,12 @@
   &emsp; 
   <a href="https://spring.io/projects/spring-security" target="_blank"> 
    <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-228B22?style=for-the-badge&logo=spring-security&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://angular.dev/" target="_blank"> 
+  <img 
+    alt="Angular"
+    src="https://img.shields.io/badge/Angular-6A0DAD?style=for-the-badge&logo=angular&logoColor=white">
   </a>
     &emsp; 
   <a href="https://junit.org/junit5/" target="_blank"> 
@@ -49,6 +67,14 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0074a3?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresqle&logoColor=white"/></a>
+  &emsp;
+      <a href="https://neo4j.com/">
+        <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
+      </a>
+  &emsp;
+      <a href="https://www.mongodb.com/">
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+      </a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
