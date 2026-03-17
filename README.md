@@ -52,8 +52,8 @@
   &emsp; 
   <a href="https://angular.dev/" target="_blank"> 
   <img 
-    alt="Angular"
-    src="https://img.shields.io/badge/Angular-6A0DAD?style=for-the-badge&logo=angular&logoColor=white">
+    alt="React"
+    src="https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white">
   </a>
     &emsp; 
   <a href="https://junit.org/junit5/" target="_blank"> 
