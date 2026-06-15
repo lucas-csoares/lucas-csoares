@@ -20,6 +20,6 @@ Frontend `TypeScript` `React` `Angular`
 
 Ferramentas `Git` `IntelliJ IDEA` `VS Code` `Postman` 
 
-### Contato
+### Links
 
-[LinkedIn](https://www.linkedin.com/in/lucas-csoares/)
+[LinkedIn](https://www.linkedin.com/in/lucas-csoares/) | [Email](mailto:lucas@email.com)
