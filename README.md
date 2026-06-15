@@ -22,6 +22,4 @@ Ferramentas `Git` `IntelliJ IDEA` `VS Code` `Postman`
 
 ### Contato
 
-[GitHub](https://github.com/lucas-csoares)
-
 [LinkedIn](https://www.linkedin.com/in/lucas-csoares/)
