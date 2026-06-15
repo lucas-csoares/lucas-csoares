@@ -16,7 +16,7 @@ Backend `Java` `Spring` `Python` `C#` `SQL`
 
 Database `PostgreSQL` `MySQL` `MongoDB` `Neo4J`
 
-Frontend `React` `Angular`
+Frontend `TypeScript` `React` `Angular`
 
 Ferramentas `Git` `IntelliJ IDEA` `VS Code` `Postman` 
 
