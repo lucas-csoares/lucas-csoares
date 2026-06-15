@@ -1,104 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Olá,+eu+sou+lucas)](https://git.io/typing-svg)
+## Oi, eu sou Lucas
 
-<h3> Aqui estão alguns fatos legais sobre mim: </h3>
+Estudante de Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Tenho interesse em desenvolvimento web fullstack, engenharia de software, testes de software e arquitetura de software.
 
-- 🎓 Estudo Engenharia de Software na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/)
-- 🏆 Fui destaque acadêmico no primeiro período do curso de Engenharia de Software
-- 🏆 Fui desenvolvedor back-end do projeto [LEHSA](https://github.com/lucas-csoares/LEHSA), que foi premiado em 2024 no [We Make Software](https://www.even3.com.br/lourdes-2-semestre/)
-- 🏆 Participei de uma pesquisa intitulada [Análise de Vulnerabilidades em Dependências Transitivas em Projetos Java com Maven](https://github.com/lucas-csoares/analise-de-vulnerabilidades-em-dependencias-transitivas-em-projetos-java-com-maven), que foi premiada em 2025 no [We Make Software](https://www.even3.com.br/we-make-software-lourdes-2-semestre-2025-621985/)
-- ♥️ Amo ler livros📖
+### Destaques
 
-<br>
+Prêmio destaque acadêmico no 1º período de Engenharia de Software da PUC Minas.
 
-## 🛠️ Minhas habilidades
+Desenvolvedor backend do projeto [LEHSA](https://github.com/lucas-csoares/LEHSA), premiado no [We Make Software 2024](https://www.even3.com.br/lourdes-2-semestre/).
 
-### 👉 Linguagens de Programação
+Desenvolvedor fullstack do projeto [GraphTest](https://github.com/lucas-csoares/graphtest-trabalho-de-conclusao-de-curso), para o Trabalho de Conclusão de Curso (TCC).
 
-&emsp;
-<a href="https://www.javascript.com/">
-  <img 
-    alt="JavaScript"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-&emsp;
-<a href="https://www.java.com/en/">
-  <img 
-    alt="Java"
-    src="https://img.shields.io/badge/Java-C74634?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-&emsp;
-<a href="https://www.python.org/">
-  <img 
-    alt="Python"
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-</a>
-&emsp;
-<a href="https://www.typescriptlang.org/">
-  <img 
-    alt="TypeScript"
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</a>
+### Tecnologias
 
-### 👉 Frameworks
-<p align="left"> 
-&emsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-228B22?style=for-the-badge&logo=spring-boot&logoColor=white">
-   </a>
-  &emsp; 
-  <a href="https://spring.io/projects/spring-security" target="_blank"> 
-   <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-228B22?style=for-the-badge&logo=spring-security&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="https://angular.dev/" target="_blank"> 
-  <img 
-    alt="React"
-    src="https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-    &emsp; 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-FF0000?style=for-the-badge&logo=junit&logoColor=white">
-  </a> 
-</p>
+Backend `Java` `Spring` `Python` `C#` `SQL`
 
-### 👉 Banco de Dados & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0074a3?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresqle&logoColor=white"/></a>
-  &emsp;
-      <a href="https://neo4j.com/">
-        <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
-      </a>
-  &emsp;
-      <a href="https://www.mongodb.com/">
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-      </a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- </p>
+Database `PostgreSQL` `MySQL` `MongoDB` `Neo4J`
 
- ### 👉 Software & Ferramentas
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-1f104f?style=for-the-badge&logo=eclipse&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-2CA5E0?style=for-the-badge&logo=chatgpt&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL_WorkBench-0074a3?style=for-the-badge&logo=mysql-workbench&logoColor=white"></a>
-</p>
+Frontend `React` `Angular`
 
+Ferramentas `Git` `IntelliJ IDEA` `VS Code` `Postman` 
 
-<br/>
+### Contato
 
+[GitHub](https://github.com/lucas-csoares)
 
+[LinkedIn](https://www.linkedin.com/in/lucas-csoares/)
