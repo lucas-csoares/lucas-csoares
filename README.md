@@ -1,6 +1,6 @@
 ## Oi, eu sou Lucas
 
-Estudante de Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Tenho interesse em desenvolvimento web fullstack, engenharia de software, testes de software e arquitetura de software.
+Sou desenvolvedor de software focado em desenvolvimento web fullstack. Trabalho na construção de aplicações modernas, explorando boas práticas de engenharia de software, arquitetura e desenvolvimento de interfaces e APIs.
 
 ### Destaques
 
@@ -22,4 +22,4 @@ Ferramentas `Git` `IntelliJ IDEA` `VS Code` `Postman`
 
 ### Links
 
-[LinkedIn](https://www.linkedin.com/in/lucas-csoares/) | [Email](mailto:lucas@email.com)
+[LinkedIn](https://www.linkedin.com/in/lucas-csoares/) | [Email](mailto:lcs.cabral.soares@gmail.com)
