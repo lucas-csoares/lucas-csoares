@@ -1,6 +1,6 @@
 ## Oi, eu sou Lucas
 
-Sou desenvolvedor de software focado em desenvolvimento web fullstack. Trabalho na construção de aplicações modernas, explorando boas práticas de engenharia de software, arquitetura e desenvolvimento de interfaces e APIs.
+Sou engenheiro de software focado em desenvolvimento web fullstack. Trabalho na construção de aplicações modernas, explorando boas práticas de engenharia de software, arquitetura e desenvolvimento de interfaces e APIs.
 
 ### Destaques
 
