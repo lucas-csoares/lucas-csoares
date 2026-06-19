@@ -12,9 +12,9 @@ Desenvolvedor fullstack do projeto [GraphTest](https://github.com/lucas-csoares/
 
 ### Tecnologias
 
-Backend `Java` `Spring` `Python` `C#` `SQL`
+Backend `Java` `Spring` `Python` `C#` 
 
-Database `PostgreSQL` `MySQL` `MongoDB` `Neo4J`
+Database `SQL` `PostgreSQL` `MySQL` `MongoDB` `Neo4J`
 
 Frontend `TypeScript` `React` `Angular`
 
